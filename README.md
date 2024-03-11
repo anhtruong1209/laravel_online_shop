@@ -1,0 +1,2 @@
+Run
+php artisan serve
